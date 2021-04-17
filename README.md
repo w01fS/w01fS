@@ -16,8 +16,6 @@ I work at the intersection of research and engineering solving impactful industr
 
 ---
 
----
-
 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/siddharthofficial/">
