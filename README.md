@@ -20,7 +20,9 @@ I work at the intersection of research and engineering solving impactful industr
 
 📫 Connect with me
 
+<a href="https://www.linkedin.com/in/siddharthofficial/">
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50"/>
+</a>
 
 ---
 
